@@ -1,3 +1,5 @@
+
+<img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"><br>
 <h1> PL </h1>
 <h3>Witaj, miło cię tu widzieć! <br></h3>
 Jestem Alina znana głównie jako Nithael, grafik-samouk i artysta zajmujący się głównie ilustrowaniem i projektowaniem postaci. <br>
@@ -32,4 +34,6 @@ Also here's the  list of coding lamguages I know
     <li>CSS</li>
  </ul> 
  
- But I would gladly learn more <br> <br>
+ But I would gladly learn more <br>
+<img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100">
+<br> Both gifs were made by me, inspired from the internet
