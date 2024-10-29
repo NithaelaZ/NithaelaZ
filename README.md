@@ -14,6 +14,10 @@ Poniżej zobaczysz listę języków programowania z jakich potrafię korzystać
     <li>PHP</li>
     <li>JavaScript</li>
     <li>CSS</li>
+    <li>Python</li>
+    <li>C#</li>
+    <li>C/++</li>
+
  </ul> 
 
  Jednak z chęcią poszerzę swoją wiedzę o nowe <br> <br>
@@ -32,6 +36,10 @@ Also here's the  list of coding lamguages I know
     <li>PHP</li>
     <li>JavaScript</li>
     <li>CSS</li>
+    <li>Python</li>
+    <li>C#</li>
+    <li>C/++</li>
+
  </ul> 
  
  But I would gladly learn more <br>
