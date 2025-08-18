@@ -2,10 +2,11 @@
 <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><br>
 <h1> PL </h1>
 <h3>Witaj, miło cię widzieć! <br></h3>
-Jestem Alina znana głównie jako Nithael, grafik-samouk i artysta zajmujący się głównie ilustrowaniem i projektowaniem postaci. <br>
+Jestem Alina znana głównie jako Nithael, grafik i artysta zajmujący się głównie ilustrowaniem i projektem graficznym <br>
 Uwielbiam pracować kreatywnie, więc jeśli cię to interesuje z wielką chęcią zapraszam do zapoznania się z moimi pracami. Z czasem oczywiście ich zasób się rozrośnie, tak samo jak moje doświadczenie. Mam nadzieję na pozytywną współpracę.
 <br>.・。.・゜✭・.・✫・゜・。.<br>
-<a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Pretty-Leafs"> Tutaj</a> zobaczycie kilka prac z których jestem ostatnimi czasy dumna jak i zobaczycie ich część poniżej. <br>  <br> 
+<a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Pretty-Leafs"> Tutaj</a> zobaczycie kilka prac jak i poniżej. <br>  <br> 
+<a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Flowery-fields"> Tutaj</a>  z kolei możecie zobaczyć kilka z moich konceptów <br><br> 
 
 Poniżej zobaczysz listę języków programowania z jakich potrafię korzystać
 
@@ -24,13 +25,13 @@ Poniżej zobaczysz listę języków programowania z jakich potrafię korzystać
  
 <center> <h1> ENG </h1> </center>
 <h3>Hello, It's a pleasure to meet you! <br> </h3>
-The name is Alina mostly known as Nithael. Self-taught graphic designer who mainly ilustrates and design charactes. <br>
+The name is Alina mostly known as Nithael. Self-taught graphic designer who mainly ilustrates and digitally designs <br>
 I love to work creativly so if you're interested in that aspect go ahead and check what's in store for you here. I plan to grow this page along with my experience. I hope for great cooperation.
 <br>.・。.・゜✭・.・✫・゜・。.<br>
-<a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Pretty-Leafs"> Here</a> is some of my work I'm lately most proud of as below you can see some of them.<br><br> 
-<a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Flowery-fields"> Here</a> on the other hand you can find some of my concept art<br><br> 
+<a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Pretty-Leafs"> Here</a> is some of my work, below you can see some of them.<br><br> 
+<a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Flowery-fields"> Here</a> on the other hand you can find some of my concept art <br><br> 
 
-Also here's the  list of coding lamguages I know
+Also here's the list of coding lamguages I know
 
 <ul>
     <li>HTML 5</li>
