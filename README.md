@@ -8,6 +8,8 @@ Uwielbiam pracować kreatywnie, więc jeśli cię to interesuje z wielką chęci
 <a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Pretty-Leafs"> Tutaj</a> zobaczycie kilka prac jak i poniżej. <br>  <br> 
 <a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Flowery-fields"> Tutaj</a>  z kolei możecie zobaczyć kilka z moich konceptów <br><br> 
 
+Pracowałam nad kilkoma grami jako programista w ramach Lem-jam i Cyberiady
+
 Poniżej zobaczysz listę języków programowania z jakich potrafię korzystać
 
 <ul>
@@ -30,6 +32,8 @@ I love to work creativly so if you're interested in that aspect go ahead and che
 <br>.・。.・゜✭・.・✫・゜・。.<br>
 <a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Pretty-Leafs"> Here</a> is some of my work, below you can see some of them.<br><br> 
 <a href="https://github.com/NithaelaZ/Fairy-garden/tree/main/Flowery-fields"> Here</a> on the other hand you can find some of my concept art <br><br> 
+
+I wokred on two games as a part of Cyberiada project and Lem-jam  <br><br>
 
 Also here's the list of coding lamguages I know
 
