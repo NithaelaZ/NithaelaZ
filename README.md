@@ -1,5 +1,9 @@
 
 <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><br>
+
+<h3> currently working on <a href="
+https://github.com/M4przybysz/KeroKero"> KeroKero </a>
+
 <h1> PL </h1>
 <h3>Witaj, miło cię widzieć! <br></h3>
 Jestem Alina znana głównie jako Nithael, grafik i artysta zajmujący się głównie ilustrowaniem i projektem graficznym <br>
