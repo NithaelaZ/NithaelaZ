@@ -1,7 +1,7 @@
 
 <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><br>
 
-<h3> currently working on <a href="https://github.com/M4przybysz/KeroKero"> KeroKero </a>
+<h3> Currently working on <a href=""> Decomposer </a>
 
 <h1> PL </h1>
 <h3>Witaj, miło cię widzieć! <br></h3>
@@ -52,6 +52,15 @@ Also here's the list of coding lamguages I know
  </ul> 
  
  But I would gladly learn more <br>
+
+<h1> Past indie projects: <br> </h1>
+<h2> 
+    <ul>
+        <li> <a href="https://github.com/M4przybysz/KeroKero"> KeroKero </a> </li>
+
+ </ul> 
+   
+
 <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100">
 <br> Both gifs were made by me, inspired from the internet, below are some of my art <br>
 
