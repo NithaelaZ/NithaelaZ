@@ -34,9 +34,9 @@ Also here's the list of coding languages I know
     <ul>
         <li> <a href="https://github.com/M4przybysz/KeroKero"> KeroKero </a> </li>
         <li> <a href="https://github.com/M4przybysz/Kamen-z-serca"> Kamień z serca </a> </li>
-
+        <li> <a href="https://nithaelaz.github.io/NithaelZ/"> Small site </a> </li>
+        
  </ul> 
-   
 
 <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100">
 <br> Both gifs were made by me, inspired from the internet, below are some of my art <br>
