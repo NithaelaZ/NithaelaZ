@@ -1,7 +1,7 @@
 
 <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"> <img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><img src="obraz_2021-10-30_195737.gif" alt="cute pixel-frog" width="100" height="100"> <img src="New Piskel.gif" alt="cute pixel-frog" width="100" height="100"><br>
 
-<h3> Currently focusing on <a href="https://github.com/KageuraKoara/projekt_cyfrowy_2.0"> Decomposer </a>
+<h3> Currently focusing on 
 
 <center> <h1> ENGLISH </h1> </center>
 <h3>Hello, It's a pleasure to meet you! <br> </h3>
@@ -35,6 +35,7 @@ Also here's the list of coding languages I know
         <li> <a href="https://github.com/M4przybysz/KeroKero"> KeroKero </a> </li>
         <li> <a href="https://github.com/M4przybysz/Kamen-z-serca"> Kamień z serca </a> </li>
         <li> <a href="https://nithaelaz.github.io/NithaelZ/"> Small site </a> </li>
+        <li><a href="https://github.com/KageuraKoara/projekt_cyfrowy_2.0"> Decomposer </a></li>
         
  </ul> 
 
